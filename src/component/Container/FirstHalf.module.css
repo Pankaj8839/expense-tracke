@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-direction:row;
+    background-color:#626262;
+    opacity: 0.7;
+}
+.containerRectangle{
+    flex:3;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.containerPieChart{
+    flex:2;
+}
